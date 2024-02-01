@@ -41,20 +41,13 @@ Make sure the `vagrant@your-initials` is in the screenshot
 
 ### PySpark ScreenShot
 
-Place PySpark screenshot here
+
+<img width="943" alt="vamsi_pyspark" src="https://github.com/vamsivittanala/vamsi521/assets/156237156/a849382b-3564-4804-b64d-5dc0661debb2">
 
 ### SBT build Output Screenshot
 
-Place screenshot here
+<img width="801" alt="vamsi_sbt build" src="https://github.com/vamsivittanala/vamsi521/assets/156237156/aa341874-cdd3-4560-b630-0d1f63551f54">
 
 ### Spark Scala ScreenShot
 
-Place Scala screenshot here
-
-## Deliverables
-
-Using this template, under the `itmd-521` directory in your local repository, create a sub-directory named `labs`. Under that create another subdirectory named `week-03` and place this Readme.md file in that directory along with a folder for images.
-
-You also need to include your python and scala code and the `build.sbt` file. Push the code to your remote GitHub repo and submit the URL to this location in Blackboard.
-
-Do not push any data files into your GitHub repo
+<img width="851" alt="vamsi_spark scala" src="https://github.com/vamsivittanala/vamsi521/assets/156237156/2e94c4f0-4911-4337-a9b8-cbfc66c4bfc1">
