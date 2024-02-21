@@ -20,7 +20,7 @@ Execute command: `java -version`!![java version](java.png)
 
 ## Spark Versions
 
-Execute command: `pyspark` and `spark-shell` and take screenshots of each.![pyshark](pyshark.jpg)
+Execute command: `pyspark` and `spark-shell` and take screenshots of each.!![pyspark](pyspark.jpg)
 
 ![spark-shell](<spark shell.jpg>)
 ## R Version
