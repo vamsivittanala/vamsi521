@@ -31,7 +31,7 @@ Execute command: `python -V`![python version](python.png)
 
 ## Result of Cloning Your Private Repository
 
-No need to show the clone action -- just the results of the `ls` command ![ls ](ls.png)
+No need to show the clone action -- just the results of the `ls` command !![ls 2](<ls 2.png>)
 
 Image goes here
 
